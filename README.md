@@ -21,7 +21,7 @@ I am enthusiastic about the entire IT ecosystem and have a strong affinity for l
 
 ![postman icon](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white") ![git_icon](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff) ![github_icon](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=ffffff)
 
-[aws_icon](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![docker_icon](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white) ![ubuntu_icon](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
+![aws_icon](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![docker_icon](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white) ![ubuntu_icon](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
 
 ## About Me
 
