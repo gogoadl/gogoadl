@@ -27,14 +27,19 @@ I am enthusiastic about the entire IT ecosystem and have a strong affinity for l
 ## 🥇 Certificates
 
 2024.07 : AWS Solution Architect Associate (SAA-C03)
+
 2021.07 : Engineer Information Processing (정보처리기사)
 
 ## 🏆 Awards
 
 🏅 2024.05 : 삼성청년 SW 아카데미 2학기 자율프로젝트 우수상 수상 (삼성 멀티캠퍼스)
+
 🏅 2024.02 : 삼성청년 SW 아카데미 2학기 공통프로젝트 우수상 수상 (삼성 멀티캠퍼스) 
+
 🏅 2020.12 : 2020학년도 졸업작품 경진대회 우수상 수상 (경남과학기술대학교)
+
 🏅 2020.12 : 2020 사업성과 전시 및 경진대회 우수상 (경남과학기술대학교) 
+
 🏅 2019.11 : 제 2회 교내 해커톤 대회 은상 (경남과학기술대학교)
 
 
