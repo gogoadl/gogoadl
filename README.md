@@ -11,16 +11,17 @@ I am enthusiastic about the entire IT ecosystem and have a strong affinity for l
 
 ### Language
 
-![kotlin icon](https://img.shields.io/badge/kotlin-808080?style=for-the-badge&logo=kotlin&logoColor=7f52ff) ![Java icon](https://img.shields.io/badge/java-808080?style=for-the-badge) ![js_icon](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![kotlin icon](https://img.shields.io/badge/kotlin-808080?style=for-the-badge&logo=kotlin&logoColor=7f52ff) ![Java icon](https://img.shields.io/badge/java-808080?style=for-the-badge) ![js_icon](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff) ![cpp_icon](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) 
 
+### Framework
 
-### Back-End
-![spring_icon](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=ffffff)
+![spring_icon](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=ffffff) ![Android icon](https://img.shields.io/badge/android-808080?style=for-the-badge&logo=android&logoColor=3ddc84) ![vue_icon](https://img.shields.io/badge/vuejs-2E7D32?style=for-the-badge&logo=vuedotjs&logoColor=#4FC08D) ![vuetify_icon](https://img.shields.io/badge/vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=ffffff) 
 
-### Front-End
-![Android icon](https://img.shields.io/badge/android-808080?style=for-the-badge&logo=android&logoColor=3ddc84) ![vue_icon](https://img.shields.io/badge/vuejs-2E7D32?style=for-the-badge&logo=vuedotjs&logoColor=#4FC08D) ![vuetify_icon](https://img.shields.io/badge/vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=ffffff) 
-### SCM
-![git_icon](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff) ![github_icon](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=ffffff)
+### TOOLS
+
+![postman icon](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white") ![git_icon](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff) ![github_icon](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=ffffff)
+
+[aws_icon](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![docker_icon](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![ubuntu_icon](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 
 ## About Me
 
