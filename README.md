@@ -45,12 +45,6 @@ I am enthusiastic about the entire IT ecosystem and have a strong affinity for l
 
 🏅 2019.11 : 제 2회 교내 해커톤 대회 은상 수상 (경남과학기술대학교)
 
-## Badges
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="26d65e22-90ce-4065-bc50-a0ce6d012550" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="11bb94c0-e7c3-4464-930c-e2343f8ad844" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 
 <!-- <img src="https://img.shields.io/badge/Kotlin-#7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> -->
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gogoadl&count_private=true&show_icons=true&theme=radical)
@@ -58,4 +52,11 @@ I am enthusiastic about the entire IT ecosystem and have a strong affinity for l
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gogoadl)](https://solved.ac/gogoadl/)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgogoadl%2Fhit-counter&count_bg=%2379C83D&title_bg=%23A4A4A4&icon=github.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)
+
+## Badges
+
+[!Github Foundations](https://www.credly.com/badges/26d65e22-90ce-4065-bc50-a0ce6d012550/public_url)
+
+[!AWS Solutions Architect Associate](https://www.credly.com/badges/11bb94c0-e7c3-4464-930c-e2343f8ad844/public_url)
+
 
