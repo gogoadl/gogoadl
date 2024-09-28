@@ -56,6 +56,6 @@ I am enthusiastic about the entire IT ecosystem and have a strong affinity for l
 ## Badges
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/06b023ba-aaca-4a52-bfa0-14ee57a89fdc" alt="GitHub Foundations" style="width: 100px; height: auto; margin-right: 10px;">
-  <img src="https://github.com/user-attachments/assets/37476542-b988-47a3-80f7-d532c8bc074c" alt="AWS Certified Solutions Architect Associate" style="width: 100px; height: auto;">
+  <img src="https://github.com/user-attachments/assets/06b023ba-aaca-4a52-bfa0-14ee57a89fdc" alt="GitHub Foundations" style="width: 200px; height: auto; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/37476542-b988-47a3-80f7-d532c8bc074c" alt="AWS Certified Solutions Architect Associate" style="width: 200px; height: auto;">
 </div>
