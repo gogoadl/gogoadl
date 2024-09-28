@@ -27,6 +27,8 @@ I am enthusiastic about the entire IT ecosystem and have a strong affinity for l
 
 ## 🥇 Certificates
 
+2024.09 : Github Foundations
+
 2024.07 : AWS Solution Architect Associate (SAA-C03)
 
 2021.07 : Engineer Information Processing (정보처리기사)
@@ -43,6 +45,11 @@ I am enthusiastic about the entire IT ecosystem and have a strong affinity for l
 
 🏅 2019.11 : 제 2회 교내 해커톤 대회 은상 수상 (경남과학기술대학교)
 
+## Badges
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="26d65e22-90ce-4065-bc50-a0ce6d012550" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="11bb94c0-e7c3-4464-930c-e2343f8ad844" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 <!-- <img src="https://img.shields.io/badge/Kotlin-#7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> -->
