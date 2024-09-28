@@ -55,8 +55,7 @@ I am enthusiastic about the entire IT ecosystem and have a strong affinity for l
 
 ## Badges
 
-[!Github Foundations](https://www.credly.com/badges/26d65e22-90ce-4065-bc50-a0ce6d012550/public_url)
+![github-foundations](https://github.com/user-attachments/assets/06b023ba-aaca-4a52-bfa0-14ee57a89fdc)
 
-[!AWS Solutions Architect Associate](https://www.credly.com/badges/11bb94c0-e7c3-4464-930c-e2343f8ad844/public_url)
-
+![aws-certified-solutions-architect-associate](https://github.com/user-attachments/assets/37476542-b988-47a3-80f7-d532c8bc074c)
 
