@@ -30,9 +30,13 @@ I am enthusiastic about the entire IT ecosystem and have a strong affinity for l
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/user-attachments/assets/06b023ba-aaca-4a52-bfa0-14ee57a89fdc" alt="GitHub Foundations" style="width: 200px; height: auto; margin-right: 10px;">
   <img src="https://github.com/user-attachments/assets/37476542-b988-47a3-80f7-d532c8bc074c" alt="AWS Certified Solutions Architect Associate" style="width: 200px; height: auto;">
+  <img src="https://github.com/user-attachments/assets/ba2b5aad-f115-44b4-8492-e87c1b0c1792" alt="AWS Certified Solutions Developer Associate" style="width: 200px; height: auto;">
+
 </div>
 
 ### 🥇 Certificates
+
+2024.11 : AWS Developer Associate (DVA-C02)
 
 2024.09 : Github Foundations
 
