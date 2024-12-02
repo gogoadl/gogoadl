@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-🧐 Hello, I'm Hyunwoo Park, a developer passionate about solving problems through software.
-
-I have experience contributing to open source projects and [resolving bugs in third-party products](https://devtalk.kakao.com/t/android-sdk-com-kakao-sdk2-11-0/124909).
-
-I am enthusiastic about the entire IT ecosystem and have a strong affinity for learning across various fields.
-
 ## About Me
 
 ### Tech Stack
